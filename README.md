@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dharmendra Singh</h1>
+<h1 align="center">Hi 👋, I'm DHARMENDRA KUMAR SINGH </h1>
 
 <h3 align="center">
 🚀 Python Developer | AI Enthusiast | Future Software Engineer
@@ -25,6 +25,7 @@
 - Python Backend Development
 - Artificial Intelligence
 - Open Source Projects
+  AI & Machine Learning
 - Database Development
 
 ---
@@ -32,7 +33,7 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode,vercel, Oracle,,Gitlab,html,css,Angular,Node.js,PHP, C#,flask,java,firebase,powerBI," />
+<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode,vercel,Gitlab,html,css,java,firebase,powerBI," />
 </p>
 
 ---
