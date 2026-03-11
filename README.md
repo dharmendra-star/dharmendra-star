@@ -33,7 +33,7 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode,vercel,PHP,C#,AWS,html,css,java,firebase,powerBI," />
+<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode,vercel,PHP,html,css,java,firebase,powerBI," />
 </p>
 
 ---
