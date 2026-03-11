@@ -46,7 +46,7 @@
 ## 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=https://github.com/dharmendra-star&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dharmendra-star&theme=tokyonight" />
 </p>
 
 ---
@@ -71,7 +71,7 @@ HTML / CSS / Flask practice projects.
 
 <p>
 
-<a href="https://github.com/https://github.com/dharmendra-star">
+<a href="dharmendra-star">
 <img src="https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white">
 </a>
 
@@ -98,7 +98,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 ## 👀 Profile Visitors
 
-<img src="https://komarev.com/ghpvc/?username=https://github.com/dharmendra-star&label=Profile%20Views&color=blue&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=dharmendra-star&label=Profile%20Views&color=blue&style=flat" />
 
 ---
 
