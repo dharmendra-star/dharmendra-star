@@ -1,6 +1,4 @@
-## DHARMENDRA KUMAR SINGH 👋
 
-**dharmendra-star/dharmendra-star** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
 
@@ -37,9 +35,9 @@
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=https://github.com/dharmendra-star&show_icons=true&theme=tokyonight" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/dharmendra-star&layout=compact&theme=tokyonight" />
 
 </p>
 
@@ -48,7 +46,7 @@
 ## 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=....&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=https://github.com/dharmendra-star&theme=tokyonight" />
 </p>
 
 ---
@@ -73,7 +71,7 @@ HTML / CSS / Flask practice projects.
 
 <p>
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/https://github.com/dharmendra-star">
 <img src="https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white">
 </a>
 
@@ -100,7 +98,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 ## 👀 Profile Visitors
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=blue&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=https://github.com/dharmendra-star&label=Profile%20Views&color=blue&style=flat" />
 
 ---
 
