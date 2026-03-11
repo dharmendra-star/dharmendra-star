@@ -32,7 +32,7 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode,vercel,Netlify,AWS,MongoDB,Postgre SQL, Oracle,,Gitlab,html,css,Angular,Node.js,PHP, C#,flask,java,firebase,powerBI," />
+<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode,vercel, Oracle,,Gitlab,html,css,Angular,Node.js,PHP, C#,flask,java,firebase,powerBI," />
 </p>
 
 ---
