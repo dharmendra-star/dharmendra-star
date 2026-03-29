@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Dharmendra Kumar Singh</h1>
+<h1 align="center">Hi 👋, I'm DHARMENDRA KUMAR SINGH </h1>
 
 <h3 align="center">
 🚀 Python Developer | AI Enthusiast | Future Software Engineer
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&width=650&lines=Python+Developer;AI+Engineer;Open+Source+Learner;Machine+Learning+Enthusiast;Building+Real+World+Projects" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&width=600&lines=Python+Developer;AI+Engineer;Open+Source+Learner;AI AND ML ENGINEER;Building+Real+World+Projects" />
 </p>
 
 ---
@@ -14,34 +14,38 @@
 
 🎓 Diploma in **Computer Science Engineering**  
 🐍 Passionate about **Python Development**  
-🤖 Learning **Artificial Intelligence, Machine Learning & Backend Development**  
-🚀 Building **real-world scalable projects**  
-🌱 Exploring **new technologies & open-source**
+🤖 Currently learning **Artificial Intelligence & Backend Development**  
+🚀 Building **real-world software projects**  
+🌱 Always learning new technologies  
 
 ---
 
 ## 🧠 Current Focus
 
-- 🔹 Python Backend Development (Flask / APIs)
-- 🔹 Artificial Intelligence & Machine Learning
-- 🔹 Database Development (MySQL)
-- 🔹 Open Source Contributions
+- Python Backend Development
+- Artificial Intelligence
+- Open Source Projects
+  AI & Machine Learning
+- Database Development
 
 ---
 
 ## 🛠️ Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode,vercel,php,html,css,java,firebase,powerbi" />
+<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode,vercel,PHP,html,css,java,firebase,powerBI," />
 </p>
 
 ---
 
-## 📊 GitHub Analytics
+# 📊 GitHub Analytics
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=dharmendra-star&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dharmendra-star&layout=compact&theme=tokyonight&hide_border=true" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=dharmendra-star&show_icons=true&theme=tokyonight" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dharmendra-star&layout=compact&theme=tokyonight" />
+
 </p>
 
 ---
@@ -49,88 +53,58 @@
 ## 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dharmendra-star&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dharmendra-star&theme=tokyonight" />
 </p>
 
 ---
 
-## 🏆 Achievements
+# 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=dharmendra-star&theme=tokyonight&no-frame=true&row=1&column=6" />
+<img src="https://github-profile-trophy.vercel.app/?username=dharmendra-star&theme=tokyonight&row=1&column=6" />
 </p>
 
 ---
 
-## 📌 Featured Projects
+# 📌 Featured Projects
 
-### 🚖 Cab Booking System  
-A Python + MySQL based booking system with fare calculation and user management.
+🚖 **Cab Booking System**  
+Python + MySQL based booking system.
 
-🔗  
-[![Code](https://img.shields.io/badge/Code-GitHub-181717?logo=github&logoColor=white)](https://github.com/dharmendra-star/cab-booking-system)  
-[![Live Demo](https://img.shields.io/badge/Live-Demo-00C853?logo=vercel&logoColor=white)](https://your-live-demo-link.com)
+🤖 **AI Chatbot**  
+Simple AI chatbot using Python.
 
----
+📊 **Student Management System**  
+Database project with Python and MySQL.
 
-### 🤖 AI Chatbot  
-A Python-based chatbot with automated responses using basic AI logic.
-
-🔗  
-[![Code](https://img.shields.io/badge/Code-GitHub-181717?logo=github&logoColor=white)](https://github.com/dharmendra-star/ai-chatbot)  
-[![Live Demo](https://img.shields.io/badge/Live-Demo-00C853?logo=vercel&logoColor=white)](https://your-live-demo-link.com)
+🌐 **Web Projects**  
+HTML / CSS / Flask practice projects.
 
 ---
 
-### 📊 Student Management System  
-CRUD application to manage student records using Python and MySQL.
-
-🔗  
-[![Code](https://img.shields.io/badge/Code-GitHub-181717?logo=github&logoColor=white)](https://github.com/dharmendra-star/student-management-system)  
-[![Live Demo](https://img.shields.io/badge/Live-Demo-00C853?logo=vercel&logoColor=white)](https://your-live-demo-link.com)
-
----
-
-### 🌐 Web Projects  
-Frontend and Flask-based responsive web applications.
-
-🔗  
-[![Code](https://img.shields.io/badge/Code-GitHub-181717?logo=github&logoColor=white)](https://github.com/dharmendra-star)  
-[![Live Demo](https://img.shields.io/badge/Live-Demo-00C853?logo=vercel&logoColor=white)](https://your-live-demo-link.com)
-
----
-
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
 <p align="center">
 
 <a href="https://github.com/dharmendra-star">
-<img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white">
 </a>
 
 <a href="https://www.linkedin.com/in/dharmendra-singh-198032374">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white">
+<img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin">
 </a>
 
 <a href="mailto:Sd8750061@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white">
+<img src="https://img.shields.io/badge/Email-red?logo=gmail">
 </a>
 
 <a href="https://www.instagram.com/dharmendra_developer/">
-<img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white">
+<img src="https://img.shields.io/badge/Instagram-pink?logo=instagram">
 </a>
 
 </p>
 
 ---
-## 🏆 Achievements
-
-<p align="center">
-  <img 
-    src="https://github-profile-trophy.vercel.app/?username=dharmendra-star&theme=tokyonight&no-frame=true&row=1&column=6" 
-    alt="GitHub Trophies"
-  />
-</p>
 
 ## 👀 Profile Visitors
 
@@ -152,4 +126,4 @@ Frontend and Flask-based responsive web applications.
 
 ---
 
-⭐ **If you like my work, give a star to my repositories!**
+⭐ **If you like my projects, give them a star!**
